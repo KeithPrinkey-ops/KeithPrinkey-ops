@@ -4,19 +4,19 @@ I am the CTO of World eSports LLC! I am also still a student and attend the Univ
 _____________________________________________________________________________________________________
 I am the father of a teenage daughter and 18-year old son.
 
--- 🔭 I’m currently working on: League Manager App and my personal portfolio.
+- 🔭 I’m currently working on: League Manager App and my personal portfolio.
 
--- 🌱 I’m currently learning: Advanced C#, .NET development, and game API integrations.
+- 🌱 I’m currently learning: Advanced C#, .NET development, and game API integrations.
 
--- 👯 I’m looking to collaborate on: Open-source Laravel projects and web apps focused on sports management and competitive gaming.
+- 👯 I’m looking to collaborate on: Open-source Laravel projects and web apps focused on sports management and competitive gaming.
 
--- 🤔 I’m looking for help with: Innovative integrations of game APIs.
+- 🤔 I’m looking for help with: Innovative integrations of game APIs.
 
--- 💬 Ask me about: PHP, Laravel, TailwindCSS, and sports league management.
+- 💬 Ask me about: PHP, Laravel, TailwindCSS, and sports league management.
 
--- 📫 How to reach me: keith@keithprinkey.bio or LinkedIn.
+- 📫 How to reach me: keith@keithprinkey.bio or LinkedIn.
 
--- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him
 
--- ⚡ Fun fact: I'm passionate about bridging technology and gaming to create immersive online communities.
+- ⚡ Fun fact: I'm passionate about bridging technology and gaming to create immersive online communities.
 
