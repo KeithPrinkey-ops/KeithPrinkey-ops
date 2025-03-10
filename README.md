@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi there 👋 👋
 ______________________________
 I am the CTO of World eSports LLC! I am also still a student and attend the University of Phoenix!
 _____________________________________________________________________________________________________
 I am the father of a teenage daughter and 18-year old son.
-<!--
-**KeithPrinkey-ops/KeithPrinkey-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
