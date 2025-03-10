@@ -1,50 +1,22 @@
-Hi there 👋 👋
+### Hi there 👋 👋
+______________________________
+I am the CTO of World eSports LLC! I am also still a student and attend the University of Phoenix!
+_____________________________________________________________________________________________________
+I am the father of a teenage daughter and 18-year old son.
 
-I'm Keith Prinkey, CTO at World eSports LLC, and currently a student at the University of Phoenix!
+-- 🔭 I’m currently working on: League Manager App and my personal portfolio.
 
-__________________________________________________________________________________________
+-- 🌱 I’m currently learning: Advanced C#, .NET development, and game API integrations.
 
-I am also a proud father of a teenage daughter and an 18-year-old son.
+-- 👯 I’m looking to collaborate on: Open-source Laravel projects and web apps focused on sports management and competitive gaming.
 
-- 🚀 Current Projects:
+-- 🤔 I’m looking for help with: Innovative integrations of game APIs.
 
-🌐 League Manager App: A comprehensive platform to manage sports leagues.
+-- 💬 Ask me about: PHP, Laravel, TailwindCSS, and sports league management.
 
-🎯 Personal Portfolio: Showcasing my skills and projects.
+-- 📫 How to reach me: keith@keithprinkey.bio or LinkedIn.
 
-🎮 World eSports LLC: Innovative platform for competitive gaming.
+-- 😄 Pronouns: He/Him
 
-- 💻 Tech Stack and Skills:
-
-Languages: PHP, HTML5, CSS3, JavaScript, TypeScript, C#
-
-Frameworks & Tools: Laravel, Laravel Wave, Laravel Jetstream, Laravel Fortify, Livewire, Alpine.js
-
-Styling & UI: TailwindCSS, Blade Templates
-
-Platforms & Environments: VPS Hosting, Docker, Plesk, CloudPanel, FilamentPHP
-
-IDE & Tools: PHPStorm, IntelliJ IDEA, JetBrains Suite
-
-- 🌱 I'm currently learning:
-
-Advanced C# and .NET development.
-
-Integration of game APIs for virtual sports management.
-
-- 👯 I’m looking to collaborate on:
-
-Open-source Laravel projects.
-
-Web applications related to sports management and competitive gaming.
-
-- 📫 How to reach me:
-
-Email: keith@keithprinkey.bio
-
-LinkedIn: Keith Prinkey
-
--⚡ Fun fact:
-
-Passionate about bridging technology and gaming to create immersive online communities.
+-- ⚡ Fun fact: I'm passionate about bridging technology and gaming to create immersive online communities.
 
