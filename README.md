@@ -1,6 +1,6 @@
 ### Hi there 👋 👋
 ______________________________
-I am the CTO of World eSports LLC! I am also still a student and attend the University of Phoenix!
+I am the CTO of World eSports LLC! I am also still a student and attend the University of Phoenix with a 3.7GPA! I also graduate with my major and minor in just 2 short classes. I will have a BAS in IT with an Advanced Software Developer Certificate that finishs off with a capstone project!
 _____________________________________________________________________________________________________
 I am the father of a teenage daughter and 18-year old son.
 
